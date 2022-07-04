@@ -1,0 +1,53 @@
+# Copyright (C) 2022 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleStagiaireName'
+ModuleStagiaireName = Stagiaire
+# Module description 'ModuleStagiaireDesc'
+ModuleStagiaireDesc = Stagiaire description
+
+#
+# Admin page
+#
+StagiaireSetup = Stagiaire setup
+Settings = Settings
+StagiaireSetupPage = Stagiaire setup page
+STAGIAIRE_MYPARAM1 = My param 1
+STAGIAIRE_MYPARAM1Tooltip = My param 1 tooltip
+STAGIAIRE_MYPARAM2=My param 2
+STAGIAIRE_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+StagiaireAbout = About Stagiaire
+StagiaireAboutPage = Stagiaire about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
